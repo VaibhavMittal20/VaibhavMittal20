@@ -7,7 +7,7 @@ Nice to meet you, I'm Vaibhav Mittal
 - I’m a passionate Competitive Programmer and Web Developer 🚀 
 - I'm Microsoft Imagine Cup India Finalist
 - I'm 4 star at codechef
-- I'm Code Gladiators India Finalist
+- I'm Techgig CodeGladiators Finalist
 
 ## My Weapons 🌟
 
