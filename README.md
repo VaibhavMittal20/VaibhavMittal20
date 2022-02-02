@@ -11,22 +11,22 @@ Nice to meet you, I'm Vaibhav Mittal
 
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavMittal20&theme=react)](https://github.com/bansalshubh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavMittal20&theme=react)](https://github.com/VaibhavMittal20/github-readme-stats)
  
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=bansalshubh&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=bansalshubh&theme=react" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=VaibhavMittal20&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavMittal20&theme=react" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=bansalshubh&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=VaibhavMittal20&theme=react-dark)
 <br>
 
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
   
-<a href="https://www.linkedin.com/in/shubh-2023/">
+<a href="https://www.linkedin.com/in/vaibhav-mittal-00b6661aa/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>  
 
 <a href="https://www.smartr.me/public/profiles/shubham.choudhary107" style="background-color: black;
